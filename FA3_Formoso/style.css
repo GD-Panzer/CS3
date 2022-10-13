@@ -1,0 +1,35 @@
+#head {
+	text-align: center;
+	background-color: #006400;
+	color: #b0c4de;
+	border-style: dashed;
+	border-color: #0000ff;
+	font-family: Courier;
+	padding: 10px 15px 10px 15px;
+	margin: 20px;	
+	width: 250px;
+}
+
+#body {
+	background-image: url("foot-lettuce.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#text {
+	text-align: justify;
+	background-color: hsl(225,73%,57%);
+	border: solid hsl(0,0%,0%);
+	border-width: 3px;
+	padding: 20px;
+	width: 500px;
+}
+
+#span {
+	color: #800000;
+	font-style: italic;
+}
+
+#poggers {
+	float: center;
+}
