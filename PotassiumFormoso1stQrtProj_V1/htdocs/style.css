@@ -1,0 +1,15 @@
+#icon {
+	float: left;
+}
+#header {
+	border: 1px solid #000000;
+}
+.article {
+	width: 32%;
+	border: 1px solid #000000;
+	float: left;
+	margin-right: 5px;
+}
+h4 {
+	text-align: center;
+}
