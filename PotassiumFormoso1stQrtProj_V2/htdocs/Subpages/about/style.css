@@ -1,0 +1,22 @@
+#icon {
+	float: left;
+}
+#header {
+	border: 1px solid #000000;
+	background-color: rgba(245,222,179,.5);
+}
+p {
+	font-family: monospace, sans-serif;
+}
+body {
+	background-image: url("../../../images/homebg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.content {
+	background-color: rgba(245,222,179,.5);
+	border: 1px solid #000000;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}

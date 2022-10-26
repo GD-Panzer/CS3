@@ -1,0 +1,29 @@
+#icon {
+	float: left;
+}
+#header {
+	border: 1px solid #000000;
+	background-color: rgba(245,222,179,.5);
+}
+#content {
+	background-color: rgba(245,222,179,.5);
+	border: 1px solid #000000;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+body {
+	background-image: url("../../../images/bgvictory.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+p {
+	font-family: monospace, sans-serif;
+}
+#external {
+	background-color: rgba(245,222,179,.5);
+	border: 1px solid #000000;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}

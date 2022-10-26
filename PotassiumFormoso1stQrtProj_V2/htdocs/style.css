@@ -1,0 +1,36 @@
+#icon {
+	float: left;
+}
+#header {
+	border: 1px solid #000000;
+	background-color: rgba(245,222,179,.5);
+}
+.article {
+	width: 32.5%;
+	border: 1px solid #000000;
+	float: left;
+	background-color: rgba(245,222,179,.5);
+	margin-right: 5px;
+}
+h4 {
+	text-align: center;
+}
+p {
+	font-family: monospace, sans-serif;
+}
+body {
+	background-image: url("../images/homebg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#intro {
+	background-color: rgba(245,222,179,.5);
+	margin-left: 20px;
+	margin-right: 20px;
+}
+*.redirect {
+	color: #000000;
+}
+#instructions {
+	text-align: center;
+}
