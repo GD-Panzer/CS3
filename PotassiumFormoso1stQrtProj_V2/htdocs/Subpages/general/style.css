@@ -20,6 +20,6 @@ body {
 p {
 	font-family: monospace, sans-serif;
 }
-#content > p {
+#content p {
 	padding: 10px;
 }
