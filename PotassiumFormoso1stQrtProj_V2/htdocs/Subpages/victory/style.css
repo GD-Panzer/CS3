@@ -27,7 +27,6 @@ p {
 	margin-left: 20px;
 	margin-right: 20px;
 }
-
-#content > p {
+#content p {
 	padding: 10px;
 }
